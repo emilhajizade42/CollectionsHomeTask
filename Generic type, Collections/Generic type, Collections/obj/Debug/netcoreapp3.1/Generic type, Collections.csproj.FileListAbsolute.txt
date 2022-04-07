@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.exe
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.deps.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.runtimeconfig.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.dll
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\bin\Debug\netcoreapp3.1\Generic type, Collections.pdb
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.AssemblyInfo.cs
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.dll
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.pdb
+C:\Users\emil code\Desktop\CollectionsHomeTask\Generic type, Collections\Generic type, Collections\obj\Debug\netcoreapp3.1\Generic type, Collections.genruntimeconfig.cache
